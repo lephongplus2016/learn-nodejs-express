@@ -10,3 +10,7 @@ tham khảo: -https://ejs.co/#install
 
 để tải session:
 https://www.npmjs.com/package/express-session
+
+Demo screen :
+![screen](https://user-images.githubusercontent.com/67221611/124538117-4bc14880-de45-11eb-8047-a656c56e8836.png)
+
